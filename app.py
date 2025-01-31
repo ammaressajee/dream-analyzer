@@ -19,7 +19,7 @@ if st.button("Interpret My Dream"):
         interpretation = response[0]['generated_text']
 
         # Randomized symbolic meanings
-        symbols = ["🐍 Snakes: Hidden Homosexuality", "💧 Water: Loose Poops ", "🔥 Fire: Spicy Bumhole",
+        symbols = ["🐍 Snakes: Hidden Dingleberry", "💧 Water: Loose Poops ", "🔥 Fire: Spicy Bumhole",
                    "🕊️ Birds: Freedom", "🌕 Moon: AKA butt crack", "🌀 Tornado: Chaos/Change"]
         random_symbol = random.choice(symbols)
 
